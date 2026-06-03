@@ -31,6 +31,10 @@ I build responsive, performant, and user-friendly web applications using the mod
   *EN:* A responsive calculator app built with React and Vite.  
   *RU:* Адаптивный калькулятор, созданный на React и Vite.
 
+- 💱 **[Exchange Calculator](https://github.com/yaroslavss/exchange-calculator)**  
+  *EN:* A currency exchange calculator with real-time conversion rates and intuitive UI.  
+  *RU:* Калькулятор обмена валют с актуальными курсами конвертации и интуитивным интерфейсом.
+
 - 🌤️ **[Weather Widget](https://github.com/yaroslavss/weather-wiget)**  
   *EN:* Real-time weather dashboard featuring robust error handling and `AbortController` for optimized API requests.  
   *RU:* Виджет погоды в реальном времени с надежной обработкой ошибок и использованием `AbortController` для оптимизации API-запросов.
@@ -40,23 +44,26 @@ I build responsive, performant, and user-friendly web applications using the mod
   *RU:* Переиспользуемый модальный компонент, демонстрирующий продвинутое управление состоянием и устранение "prop drilling" (сквозной передачи пропсов).
 
 - 📝 **[Task List](https://github.com/yaroslavss/taskList)**  
-  *EN:* A feature-rich todo application with data sorting and interactive UI.  
-  *RU:* Многофункциональный список задач с функцией сортировки данных и интерактивным интерфейсом.
+  *EN:* A feature-rich todo application with data sorting, built-in timer, and task overdue checking for effective time management.  
+  *RU:* Многофункциональный список задач с сортировкой данных, встроенным таймером и проверкой просроченных задач для эффективного управления временем.
+
+- 🛍️ **[E-Store](https://github.com/yaroslavss/e-store)**  
+  *EN:* An e-commerce web application with product catalog, shopping cart, and responsive design.  
+  *RU:* Интернет-магазин с каталогом товаров, корзиной покупок и адаптивным дизайном.
 
 ---
 
 ## 📈 GitHub Stats / Статистика GitHub
 
-![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaroslavss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavss&layout=compact&theme=radical)
+*Статистика будет добавлена позже*
 
 ---
 
 ## 📫 Let's Connect / Давайте общаться
 
-- ✉️ **Email**: *me@yaraweb.ru*
+- ✉️ **Email**: me@yaraweb.ru
 
 ---
 
-> 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+> 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House  
 > 💡 *«Код подобен юмору. Если его приходится объяснять, значит, он плохой.»* – Кори Хаус
