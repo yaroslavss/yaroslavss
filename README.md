@@ -31,7 +31,7 @@ I build responsive, performant, and user-friendly web applications using the mod
   *EN:* A responsive calculator app built with React and Vite.  
   *RU:* Адаптивный калькулятор, созданный на React и Vite.
 
-- 💱 **[Exchange Calculator](https://github.com/yaroslavss/exchange-calculator)**  
+- 💱 **[Exchange Calculator](https://github.com/yaroslavss/CurrencyExchangeCalculator)**  
   *EN:* A currency exchange calculator with real-time conversion rates and intuitive UI.  
   *RU:* Калькулятор обмена валют с актуальными курсами конвертации и интуитивным интерфейсом.
 
